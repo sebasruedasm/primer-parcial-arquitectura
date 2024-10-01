@@ -34,7 +34,7 @@ Esta API permite obtener y almacenar información de productos varios, siempre y
 #### Instalar dependencias
 
 ```
-    npm install
+  npm install
 ```
 
 #### Crear el archivo .env en la capeta primer-parcial-arquitectura
@@ -57,7 +57,7 @@ Nota: En la (contraseña) se coloca la de PostgresSQL del PC a utilizar.
 - [Estructura del Proyecto](#Estructura-del-Proyecto)
 - [API Endpoints](#API-Endpoints)
 
-## Caracteristcas
+## Caracteristicas
 
 - Node.js
 - NPM
